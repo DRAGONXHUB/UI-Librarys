@@ -2168,5 +2168,5 @@ do
 	end
 end
 
-print("DRAGON X HUB NO#1)")
+
 return library
